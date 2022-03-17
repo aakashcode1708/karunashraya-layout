@@ -1,0 +1,490 @@
+{
+  "countries": [
+    {
+      "name": "Australia"
+    },
+    {
+      "name": "China"
+    },
+    {
+      "name": "Canada"
+    },
+    {
+      "name": "Germany"
+    },
+    {
+      "name": "India"
+    },
+    {
+      "name": "Netherlands"
+    },
+    {
+      "name": "New Zealand"
+    },
+    {
+      "name": "Switzerland"
+    },
+    {
+      "name": "United States"
+    },
+    {
+      "name": "United Kingdom"
+    }
+  ],
+  "states": [
+    {
+      "name": "New South Wales",
+      "country_id": "Australia"
+    },
+    {
+      "name": "Queensland",
+      "country_id": "Australia"
+    },
+    {
+      "name": "South Australia",
+      "country_id": "Australia"
+    },
+    {
+      "name": "Tasmania",
+      "country_id": "Australia"
+    },
+    {
+      "name": "Victoria",
+      "country_id": "Australia"
+    },
+    {
+      "name": "Western Australia",
+      "country_id": "Australia"
+    },
+    {
+      "name": "Anhui Province",
+      "country_id": "China"
+    },
+    {
+      "name": "Beijing Municipality",
+      "country_id": "China"
+    },
+    {
+      "name": "Chongqing Municipality",
+      "country_id": "China"
+    },
+    {
+      "name": "Fujian Province",
+      "country_id": "China"
+    },
+    {
+      "name": "Alberta",
+      "country_id": "Canada"
+    },
+    {
+      "name": "British Columbia",
+      "country_id": "Canada"
+    },
+    {
+      "name": "Manitoba",
+      "country_id": "Canada"
+    },
+    {
+      "name": "New Brunswick",
+      "country_id": "Canada"
+    },
+    {
+      "name": "Newfoundland and Labrado",
+      "country_id": "Canada"
+    },
+    {
+      "name": "Nova Scotia",
+      "country_id": "Canada"
+    },
+    {
+      "name": "Ontario",
+      "country_id": "Canada"
+    },
+    {
+      "name": "Baden-Wurttemberg",
+      "country_id": "Germany"
+    },
+    {
+      "name": "Bavaria",
+      "country_id": "Germany"
+    },
+    {
+      "name": "Berlin",
+      "country_id": "Germany"
+    },
+    {
+      "name": "BrandenBurg",
+      "country_id": "Germany"
+    },
+    {
+      "name": "Hamburg",
+      "country_id": "Germany"
+    },
+    {
+      "name": "Andhra Pradesh",
+      "country_id": "India"
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "country_id": "India"
+    },
+    {
+      "name": "Assam",
+      "country_id": "India"
+    },
+    {
+      "name": "Bihar",
+      "country_id": "India"
+    },
+    {
+      "name": "Chhattisgarh",
+      "country_id": "India"
+    },
+    {
+      "name": "Goa",
+      "country_id": "India"
+    },
+    {
+      "name": "Gujrat",
+      "country_id": "India"
+    },
+    {
+      "name": "Haryana",
+      "country_id": "India"
+    },
+    {
+      "name": "Himachal Pradesh",
+      "country_id": "India"
+    },
+    {
+      "name": "Jharkhand",
+      "country_id": "India"
+    },
+    {
+      "name": "Karnataka",
+      "country_id": "India"
+    },
+    {
+      "name": "Kerala",
+      "country_id": "India"
+    },
+    {
+      "name": "Madhya Pradesh",
+      "country_id": "India"
+    },
+    {
+      "name": "Maharashtra",
+      "country_id": "India"
+    },
+    {
+      "name": "Manipur",
+      "country_id": "India"
+    },
+    {
+      "name": "Meghalaya",
+      "country_id": "India"
+    },
+    {
+      "name": "Mizoram",
+      "country_id": "India"
+    },
+    {
+      "name": "Nagaland",
+      "country_id": "India"
+    },
+    {
+      "name": "Odisha",
+      "country_id": "India"
+    },
+    {
+      "name": "Punjab",
+      "country_id": "India"
+    },
+    {
+      "name": "Rajasthan",
+      "country_id": "India"
+    },
+    {
+      "name": "Sikkim",
+      "country_id": "India"
+    },
+    {
+      "name": "Tamil Nadu",
+      "country_id": "India"
+    },
+    {
+      "name": "Telangana",
+      "country_id": "India"
+    },
+    {
+      "name": "Tripura",
+      "country_id": "India"
+    },
+    {
+      "name": "Uttar Pradesh",
+      "country_id": "India"
+    },
+    {
+      "name": "Uttarakhand",
+      "country_id": "India"
+    },
+    {
+      "name": "West Bengal",
+      "country_id": "India"
+    },
+    {
+      "name": "Andaman and Nicobar Isalnds",
+      "country_id": "India"
+    },
+    {
+      "name": "Chandigarh",
+      "country_id": "India"
+    },
+    {
+      "name": "Daman and Diu",
+      "country_id": "India"
+    },
+    {
+      "name": "Delhi",
+      "country_id": "India"
+    },
+    {
+      "name": "Jammu and Kashmir",
+      "country_id": "India"
+    },
+    {
+      "name": "Ladkah",
+      "country_id": "India"
+    },
+    {
+      "name": "Lakshadweep",
+      "country_id": "India"
+    },
+    {
+      "name": "Puducherry",
+      "country_id": "India"
+    },
+    {
+      "name": "Drenthe",
+      "country_id": "Netherlands"
+    },
+    {
+      "name": "Flevoland",
+      "country_id": "Netherlands"
+    },
+    {
+      "name": "Friesland",
+      "country_id": "Netherlands"
+    },
+    {
+      "name": "Gelderland",
+      "country_id": "Netherlands"
+    },
+    {
+      "name": "Auckland",
+      "country_id": "New Zealand"
+    },
+    {
+      "name": "New plymouth",
+      "country_id": "New Zealand"
+    },
+    {
+      "name": "Wellington",
+      "country_id": "New Zealand"
+    },
+    {
+      "name": "Nelson",
+      "country_id": "New Zealand"
+    },
+    {
+      "name": "Alabama",
+      "country_id": "United States"
+    },
+    {
+      "name": "Alaska",
+      "country_id": "United States"
+    },
+    {
+      "name": "California",
+      "country_id": "United States"
+    },
+    {
+      "name": "Florida",
+      "country_id": "United States"
+    },
+    {
+      "name": "Georgia",
+      "country_id": "United States"
+    },
+    {
+      "name": "New Jersey",
+      "country_id": "United States"
+    },
+    {
+      "name": "New Mexico",
+      "country_id": "United States"
+    },
+    {
+      "name": "New York",
+      "country_id": "United States"
+    },
+    {
+      "name": "Washington",
+      "country_id": "United States"
+    },
+    {
+      "name": "London, City Of",
+      "country_id": "United Kingdom"
+    },
+    {
+      "name": "Aberdeen City",
+      "country_id": "United Kingdom"
+    },
+    {
+      "name": "Angus",
+      "country_id": "United Kingdom"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Adoni",
+      "state_id": "Andhra Pradesh"
+    },
+    {
+      "name": "Ananatapuram",
+      "state_id": "Andhra Pradesh"
+    },
+    {
+      "name": "Bhimavaram",
+      "state_id": "Andhra Pradesh"
+    },
+    {
+      "name": "Visakhaptnam",
+      "state_id": "Andhra Pradesh"
+    },
+    {
+      "name": "Changlang",
+      "state_id": "Arunachal Pradesh"
+    },
+    {
+      "name": "Lohit",
+      "state_id": "Arunachal Pradesh"
+    },
+    {
+      "name": "Papum Pare",
+      "state_id": "Arunachal Pradesh"
+    },
+    {
+      "name": "West Siang",
+      "state_id": "Arunachal Pradesh"
+    },
+    {
+      "name": "Guwahati",
+      "state_id": "Assam"
+    },
+    {
+      "name": "Jorhat",
+      "state_id": "Assam"
+    },
+    {
+      "name": "Tezpur",
+      "state_id": "Assam"
+    },
+    {
+      "name": "Dibrugarh",
+      "state_id": "Assam"
+    },
+    {
+      "name": "Darbhanga",
+      "state_id": "Bihar"
+    },
+    {
+      "name": "Gaya",
+      "state_id": "Bihar"
+    },
+    {
+      "name": "Muzaffarpur",
+      "state_id": "Bihar"
+    },
+    {
+      "name": "Patna",
+      "state_id": "Bihar"
+    },
+    {
+      "name": "Chennai",
+      "state_id": "Tamil Nadu"
+    },
+    {
+      "name": "Coimbatore",
+      "state_id": "Tamil Nadu"
+    },
+    {
+      "name": "Madurai",
+      "state_id": "Tamil Nadu"
+    },
+    {
+      "name": "Tiruchirappalli",
+      "state_id": "Tamil Nadu"
+    },
+    {
+      "name": "Tiruppur",
+      "state_id": "Tamil Nadu"
+    },
+    {
+      "name": "Salem",
+      "state_id": "Tamil Nadu"
+    },
+    {
+      "name": "Erode",
+      "state_id": "Tamil Nadu"
+    },
+    {
+      "name": "Tirunelveli",
+      "state_id": "Tamil Nadu"
+    },
+    {
+      "name": "Vellore",
+      "state_id": "Tamil Nadu"
+    },
+    {
+      "name": "Bengaluru",
+      "state_id": "Karnataka"
+    },
+    {
+      "name": "Hubballi-Dharwad",
+      "state_id": "Karnataka"
+    },
+    {
+      "name": "Mysuru",
+      "state_id": "Karnataka"
+    },
+    {
+      "name": "Kalaburagi",
+      "state_id": "Karnataka"
+    },
+    {
+      "name": "Mangaluru",
+      "state_id": "Karnataka"
+    },
+    {
+      "name": "Belagavi",
+      "state_id": "Karnataka"
+    },
+    {
+      "name": "Davangere",
+      "state_id": "Karnataka"
+    },
+    {
+      "name": "Ballari",
+      "state_id": "Karnataka"
+    },
+    {
+      "name": "Vijayapura",
+      "state_id": "Karnataka"
+    },
+    {
+      "name": "Shimoga",
+      "state_id": "Karnataka"
+    }
+  ]
+}

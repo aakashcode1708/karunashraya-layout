@@ -1,0 +1,23 @@
+.red-bg {
+    background-color: #B90D0D;
+    color: #ebebeb;
+}
+
+.red-bg:hover {
+    background-color: #252070;
+    color: #ebebeb;
+}
+
+.site-btn {
+    font-size: 1.8rem;
+}
+
+.site-btn,
+.es_textbox_button {
+    font-family: "Comfortaa-Medium", sans-serif;
+    border-radius: 25px;
+    padding: 0.6rem 3.2rem 0.4rem 3.2rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 1.6rem;
+}
